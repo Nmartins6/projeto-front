@@ -25,6 +25,7 @@
 
 .navbar__item {
     margin-right: 10px;
+    background-color: rgb(255, 255, 0);
 }
 
 .main-content {
