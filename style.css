@@ -60,6 +60,18 @@
     margin-top: 5px;
 }
 
+.cite__container {
+    margin: 0 0 30px 0;
+}
+
+.cite__phrase {
+    margin: 0 0 20px 40px;
+}
+
+.cite__author {
+    margin: 0 0 0 10px;
+}
+
 .footer {
     margin: 0 10px;
 }
