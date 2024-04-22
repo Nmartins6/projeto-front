@@ -28,6 +28,10 @@
     background-color: rgb(255, 255, 0);
 }
 
+.hero-image {
+    height: 40vh;
+}
+
 .main-content {
     margin: 10px;
 }
@@ -38,6 +42,17 @@
 
 .main-content__paragraph {
     margin: 20px 0;
+}
+
+.photo-container {
+display: flex;
+width: 100%;
+}
+
+.photo-container > img {
+    width: 16%;
+    height: 40vh;
+    margin: 5px;
 }
 
 .section {
