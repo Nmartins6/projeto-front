@@ -76,6 +76,17 @@ width: 100%;
     margin-top: 5px;
 }
 
+.resume__job__container {
+    display: flex;
+    align-items: baseline;
+}
+
+.resume__image__item {
+    display: flex;
+    width: 60px;
+    margin-right: 5px;
+}
+
 .cite__container {
     margin: 0 0 30px 0;
 }
