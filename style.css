@@ -113,6 +113,11 @@ width: 100%;
     margin-right: 2px;
 }
 
+.favorite__item__image{
+    height: 10vh;
+    border-radius: 10px;
+}
+
 .footer {
     margin: 0 10px;
 }
